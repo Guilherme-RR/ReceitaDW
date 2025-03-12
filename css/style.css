@@ -1,3 +1,22 @@
 body{
-    background-color: #E6DC6E;
+    background-color: #fdfad2;
+}
+.subtitulo{
+    color: darkred;
+}
+.titulo{
+    color: darkred;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+.img{
+    width: 560px;
+}
+.div-img{
+    text-align: center;
+}
+.texto-intro{
+    text-align: center;
+    font-size: medium;
 }
